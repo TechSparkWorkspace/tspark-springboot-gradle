@@ -17,4 +17,4 @@ Run `./gradlew bootRun` to run the project
 
 ## Consume the Service 
 
-Run `curl http://localhost:8080/greeting` to access the endpoint 
+Run `curl http://localhost:8080` to access the endpoint 
